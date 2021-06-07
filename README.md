@@ -13,7 +13,7 @@
 
 ### - I'm 999 years  Python Developing & Some Html , Css from Mars.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://tenor.com/view/anime-girl-cute-love-blush-gif-15584897">
+<img hight="400" width="500" alt="GIF" align="right" src="https://cdn.discordapp.com/attachments/851365197230243850/851365287558381578/tenor.gif">
 
 ### - Learning :
 - ✨ New Things
