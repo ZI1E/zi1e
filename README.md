@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 16 years  Python Developing & Some Html , Css from Mars.
+### - I'm 16 years  Python Developing & Some Html , Css.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://cdn.discordapp.com/attachments/841336358743703553/851366164478427136/tenor.gif">
 
