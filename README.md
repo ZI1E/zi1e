@@ -1,35 +1,74 @@
-# Hello there!
+# Hello there 👋
 
-- 🔭 I’m currently working on **Discord bots/ Sites / Some scripts**!
-- 🌱 I’m currently using **NodeJS / EJS / Pyhon**
-- 📫 How to reach me: [zi1e@outlook.com](mailto:zi1e@outlook.com)
-- ⚡ Fun fact: **"The first computer virus was created in 1983."**
-- ✨ Love: **Music & Games & Stories**
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zi1e.zi1e)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-### Connect with me:
-[<img align="left" alt="ZI1E_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt=",ZIE#4629 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-<br />
 
-### Languages and Tools:
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/json/json.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/json/python.png" />
-<br />
-<br />
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Xynnix&show_icons=true&include_all_commits=true&hide_border=false&theme=jolly" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xynnix&layout=compact&hide_border=false&theme=jolly" />
-</div>
+class SoftwareEngineer:
 
-[twitter]: https://twitter.com/ZI1E_
-[discord]: https://discord.com/invite/TbC5KNzrJJ
+    def __init__(self):
+        self.name = "ZIE"
+        self.role = "Software Engineer"
+        self.language_spoken = ["ar_JO", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+## 📝 Info
+
+- My Discord Server: https://discord.gg/TbC5KNzrJJ
+- My Twitter Profile: https://twitter.com/ZI1E_
+- My Website: Soon
+
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/ZI1E/ZI1E">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zi1e&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ZIE's GitHub Stats" />
+</a>
+
+<a href="https://github.com/ZI1E/ZI1E">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zi1e&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ZIE's GitHub Stats" />
+</a>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zi1e&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/ZI1E/We-Template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zi1e&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/ZI1E/Python-WiFi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zi1e&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
+
+## 👨‍💻 This week, I spent my time on:
+
+[![zie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zi1e&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
