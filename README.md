@@ -27,7 +27,7 @@ me.say_hi()
 ## 📝 Info
 
 - My Discord Server: https://discord.gg/TbC5KNzrJJ
-- My Twitter Profile: https://twitter.com/ZI1E_
+- My Twitter Profile: [Link](https://twitter.com/ZI1E_)
 - My Website: Soon
 
 
@@ -62,13 +62,13 @@ me.say_hi()
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/ZI1E/We-Template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zi1e&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zi1e&repo=We-Template&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="We-Template" />
 </a>
 
 <a href="https://github.com/ZI1E/Python-WiFi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zi1e&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zi1e&repo=Python-WiFi&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Python-WiFi" />
 </a>
 
 ## 👨‍💻 This week, I spent my time on:
 
-[![zie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zi1e&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
+[![zie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zi1e&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/ZI1E/github-readme-stats)
