@@ -26,8 +26,8 @@ me.say_hi()
 
 ## 📝 Info
 
-- My Discord Server: https://discord.gg/TbC5KNzrJJ
-- My Twitter Profile: [Link](https://twitter.com/ZI1E_)
+- My Discord Server: [Discord](https://discord.gg/TbC5KNzrJJ)
+- My Twitter Profile: [Twitter](https://twitter.com/ZI1E_)
 - My Website: Soon
 
 
