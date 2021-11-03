@@ -1,66 +1,35 @@
-# Konichiwa 👋
+# Hello there!
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+- 🔭 I’m currently working on **Discord bots/ Sites / Some scripts**!
+- 🌱 I’m currently using **NodeJS / EJS / Pyhon**
+- 📫 How to reach me: [zi1e@outlook.com](mailto:zi1e@outlook.com)
+- ⚡ Fun fact: **"The first computer virus was created in 1983."**
+- ✨ Love: **Music & Games & Stories**
+
+### Connect with me:
+[<img align="left" alt="ZI1E_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt=",ZIE#4629 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/json/json.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/json/python.png" />
+<br />
+<br />
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Xynnix&show_icons=true&include_all_commits=true&hide_border=false&theme=jolly" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xynnix&layout=compact&hide_border=false&theme=jolly" />
 </div>
 
-</br>
-</br>
-</br>
-
-
-# About ME 💬 :
-
-### - I'm 16 years  Python Developing & Some Html , Css.
-
-<img hight="400" width="500" alt="GIF" align="right" src="https://cdn.discordapp.com/attachments/841336358743703553/851366164478427136/tenor.gif">
-
-### - Learning :
-- ✨ New Things
-- ✨ JavaScript
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Books
-
-</br>
-</br>
-</br>
-
-
-
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-</p>
-</br>
-</br>
-</br>
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=zi1e&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-
-*************
+[twitter]: https://twitter.com/ZI1E_
+[discord]: https://discord.com/invite/TbC5KNzrJJ
