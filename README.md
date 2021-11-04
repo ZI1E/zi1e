@@ -26,6 +26,7 @@ me.say_hi()
 
 ## 📝 Info
 
+- Mail: zi1e@outlook.com
 - My Discord Server: [Discord](https://discord.gg/TbC5KNzrJJ)
 - My Twitter Profile: [Twitter](https://twitter.com/ZI1E_)
 - My Website: [Link](https://zi1e.site/)
