@@ -9,7 +9,6 @@
 - My Discord Server: [Discord](https://discord.gg/tZ7fYQuJYq)
 - My Twitter Profile: [Twitter](https://twitter.com/ZI1E_)
 - My Instagram Profile: [Instagram](https://www.instagram.com/_z1ie_/)
-- My Website: [Link](https://zi1e.site/)
 
 
 ## 🔧 Technologies & Tools
